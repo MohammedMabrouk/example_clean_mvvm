@@ -1,7 +1,7 @@
 package com.mohamedmabrouk.goodsmart_task.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.mohamedmabrouk.goodsmart_task.R
 
 class MainActivity : AppCompatActivity() {
